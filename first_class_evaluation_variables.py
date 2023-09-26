@@ -1,0 +1,5 @@
+school_name = "linar"
+best_colour = "blue"
+my_name = "emmanuella"
+NumberOfPets = "4"
+name_1_course = "python"

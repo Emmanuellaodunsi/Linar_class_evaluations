@@ -1,0 +1,11 @@
+print("Few things about me")
+Name=input("What is your name\n")
+print("My name is",Name)
+Gender=input("Enter your Gender(male or female):\n")
+print("I am a",Gender)
+School=input("Enter the name of school you are attending:\n")
+print("The name of the school i am attending is",School)
+Course=input("What prgramming course are you studying?\n")
+print("I am studying",Course,"programming language")
+
+print("I love cats....i have 8 cats")

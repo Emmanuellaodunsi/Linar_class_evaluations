@@ -1,0 +1,5 @@
+print('General Example')
+print('People\'s bag\'s')
+print('HaHaHa')
+print('Drawing a train //\\\/\\//\\\/\\p')
+print('four slash is //// or \\\\\\\\')
