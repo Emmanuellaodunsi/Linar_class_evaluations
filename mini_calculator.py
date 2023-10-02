@@ -45,6 +45,6 @@ def calculate():
         print("The squareroot of the value is:",squareroot(value=firstvalue,rootvalue=secondvalue))
     else:
         print("Dear...",user_name,"pls enter a valid operator")
-    print("Thank for using Emmnauella mini calculator")
+    print("Thank for using Emmnauella mini calculator:)..")
 calculate()
 
